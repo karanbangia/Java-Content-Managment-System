@@ -1,0 +1,5 @@
+com\webapp\cmsshopping\CmsshoppingApplication.class
+com\webapp\cmsshopping\repository\PageRepository.class
+com\webapp\cmsshopping\controller\AdminController.class
+com\webapp\cmsshopping\controller\HomeController.class
+com\webapp\cmsshopping\models\Page.class
